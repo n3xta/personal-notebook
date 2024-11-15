@@ -1,4 +1,16 @@
-[toc]
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [What If Assignment](#what-if-assignment)
+   * [the 'world'](#the-world)
+   * [Research training models](#research-training-models)
+      + [Communities & online resources](#communities-online-resources)
+   * [Process](#process)
+      + [My Workflow:](#my-workflow)
+         - [Example of one image: ](#example-of-one-image)
+         - [Sometimes You Need Happy Accidents](#sometimes-you-need-happy-accidents)
+   * [Yapping](#yapping)
+
+<!-- TOC end -->
 
 ---
 
